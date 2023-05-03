@@ -14,8 +14,9 @@ function App() {
       <div>
         <Header></Header>
         <Button>Sort By Date</Button>
-        {/* <Button>See More</Button> */}
+
         <Card></Card>
+        <Button>See More</Button>
       </div>
     </>
   );
